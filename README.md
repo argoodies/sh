@@ -9,11 +9,11 @@
 ### Via curl
 
 ```bash
-sh -c "$(curl -fsSL https://meloalright.github.io/sh/privacy.sh)"
+sh -c "$(curl -fsSL https://argoodies.github.io/sh/privacy.sh)"
 ```
 
 ### Via wget
 
 ```bash
-sh -c "$(wget https://meloalright.github.io/sh/privacy.sh -O -)"
+sh -c "$(wget https://argoodies.github.io/sh/privacy.sh -O -)"
 ```
